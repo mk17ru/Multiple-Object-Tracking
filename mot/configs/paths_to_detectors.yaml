@@ -1,0 +1,9 @@
+paths:
+  yolox-x:
+    config: mmdetection/configs/yolox/yolox_x_8x8_300e_coco.py
+    checkpoint_url: https://download.openmmlab.com/mmdetection/v2.0/yolox/yolox_x_8x8_300e_coco/yolox_x_8x8_300e_coco_20211126_140254-1ef88d67.pth
+    checkpoint_storage: yolox_x.pth
+  yolox-tiny:
+    config: mmdetection/configs/yolox/yolox_tiny_8x8_300e_coco.py
+    checkpoint_url: https://download.openmmlab.com/mmdetection/v2.0/yolox/yolox_tiny_8x8_300e_coco/yolox_tiny_8x8_300e_coco_20211124_171234-b4047906.pth
+    checkpoint_storage: yolox_tiny.pth

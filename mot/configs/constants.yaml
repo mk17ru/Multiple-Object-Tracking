@@ -1,0 +1,19 @@
+pipeline:
+    detection_frequency: 3
+    frames_memorized: 10
+    certainty_window: 3
+    draw_window: 3
+tracker:
+    object_lifetime: 1
+detector:
+    prob_threshold: 0.1
+    classes:
+      - person
+matcher:
+    sort_threshold: 0.75
+    mahalanobis_threshold: 9.4877
+    features_threshold: 0.75
+    lmb: 0.5
+predictor:
+    alpha: 0.9
+    features_lifetime: 100
