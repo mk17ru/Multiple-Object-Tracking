@@ -5,7 +5,9 @@
 
 ### Улучшения DeepSORT-а
 https://arxiv.org/pdf/2202.13514.pdf
+
 https://arxiv.org/pdf/2203.14360v1.pdf
+
 https://arxiv.org/pdf/2110.06864.pdf
 
 
